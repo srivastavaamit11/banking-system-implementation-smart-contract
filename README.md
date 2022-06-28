@@ -1,4 +1,4 @@
-# banking-system-implementation-smart-contract
+# Banking-system-smart-contract
 
 Banking Smart Contract
 
